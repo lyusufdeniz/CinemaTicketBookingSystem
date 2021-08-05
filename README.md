@@ -22,3 +22,6 @@ How to Run
 5)Open DbConnection class and change Connection string
 
 6)that is all
+
+![Alt text](1.png?raw=true "System Admin  Control Panel")
+![Alt text](2.png?raw=true "Staff Sell Ticket Panel")
